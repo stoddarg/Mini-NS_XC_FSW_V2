@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]C:\Users\GStoddard\Desktop\LunaH_XC_FSW_V2_patch_synctest\XC_FSW_V2_patch_synctest_FSBL\Release\XC_FSW_V2_patch_synctest_FSBL.elf
+	C:\Users\GStoddard\Desktop\LunaH_XC_FSW_V2_patch_synctest\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\GStoddard\Desktop\LunaH_XC_FSW_V2_patch_synctest\XC_FSW_V2_patch_synctest\Release\XC_FSW_V2_patch_synctest.elf
+}
